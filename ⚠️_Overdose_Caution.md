@@ -1,5 +1,5 @@
 
-# Overdose Caution: Legal Buzz Stack
+# Overdose Caution: ⚠️ # Legal Buzz Stack
 
 **Just because it's legal doesn't mean it's harmless.**  
 The Legal Buzz stack is potent and synergistic — pushing it too far can backfire.
