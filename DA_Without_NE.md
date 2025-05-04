@@ -1,9 +1,11 @@
-
+7
 # Dopamine Without Noradrenaline: Smart Stacking Guide
 
 **Purpose:**  
 To build a dopaminergic stack that enhances mood, motivation, and cognition — **without triggering excess noradrenergic (NE) side effects** like jitteriness, heart racing, or anxiety.
 
+---
+Note: Instead of reading all this, some Beta-Blockers will so this as part of their primary action (I use Metoprolol) but, failing that:
 ---
 
 ## Strategies
@@ -75,5 +77,8 @@ Effects: Clean dopamine lift, little to no NE stimulation
 ---
 
 **Bottom Line:**  
-You can absolutely dial up dopamine without inviting noradrenaline to the party.  
+You can absolutely dial up dopamine without inviting noradrenaline to the party.
+
+**I use Metoprolol Tartrate to attenuate the NorEpinephrine or NorAdrenaline**
+
 Respect the metabolic path, and buffer wisely.
